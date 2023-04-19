@@ -4,6 +4,8 @@ def main(s):
     Args:
         s(str): parameter
     Returns:
-        str: answer
+       
+         str: answer
     """
-    return
+    return s[:4]
+print(main("diyor"))
